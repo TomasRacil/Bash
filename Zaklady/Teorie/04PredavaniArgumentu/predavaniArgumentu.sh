@@ -15,3 +15,9 @@ echo První: $1, Druhý: $2
 args=("$@")
 
 echo První v poli: ${args[1]}, Druhý v poli: ${args[2]}
+
+#Pro přístup ke všem předaným argumentům využíváme proměnné @
+echo Všechny argumenty $@
+
+#Pro získání počtu argumentů využíváme proměnnou #
+echo Pocet argumentů $#
