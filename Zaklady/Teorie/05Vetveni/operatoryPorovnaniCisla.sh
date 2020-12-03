@@ -1,3 +1,5 @@
+#! /bin/bash
+
 #Porovnávání čísel se dá zapsat třemi způsoby 
 #pomocí hranatých závorek spolu s vlajkami vyjadřujícími typ porovnání
 

@@ -1,3 +1,5 @@
+#! /bin/bash
+
 #Při porovnávání řetězců požíváme následující kombinace operátorů a závorek
 slovo=abc
 
