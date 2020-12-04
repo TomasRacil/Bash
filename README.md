@@ -9,7 +9,7 @@ git config --global user.email email@domena.cz
 Pro naklonování repozitáře 
 - zadejte následující příkaz do příkazového řádku  
 
- git clone https://github.com/TomasRacil/Python.git 
+ git clone https://github.com/TomasRacil/Bash.git
 
 
 Pokud nastane chyba Fatal: repository not found 
