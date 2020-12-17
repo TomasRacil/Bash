@@ -7,6 +7,8 @@
 #jednoduchá funkce která tiskne první předaný pramaetr
 myfunc() {
     echo "Ahoj $1"
+    return 55
 }
 
 myfunc "třído"
+echo $?
